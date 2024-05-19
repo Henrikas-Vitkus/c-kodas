@@ -416,4 +416,4 @@ node* rastiMaziausiaNode(node* preke)
 //I gues we'll never know
 //I gues we'll never know
 
-//aleliuja mano vaikai
+//aleliuja mano vaikai.
